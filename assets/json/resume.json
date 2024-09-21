@@ -25,7 +25,6 @@
   "work": [
     {
       "name": "Research Center for Space, National Research and Innovation Agency (BRIN)",
-      "location": "Bandung, Indonesia",
       "position": "Junior Researcher",
       "url": "https://example.com",
       "startDate": "2022-12-01",
@@ -37,7 +36,6 @@
 
     {
       "name": "Research Center for Space, National Research and Innovation Agency (BRIN)",
-      "location": "Bandung, Indonesia",
       "position": "Assistant Researcher",
       "url": "https://example.com",
       "startDate": "2021-09-01",
@@ -49,7 +47,6 @@
 
     {
       "name": "Space Science Center, National Institute of Aeronautics and Space (LAPAN)",
-      "location": "Bandung, Indonesia",
       "position": "Assistant Researcher",
       "url": "https://example.com",
       "startDate": "2019-02-01",
