@@ -81,23 +81,23 @@ flickr_id: # your flickr id
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
+inspirehep_id: #1010907 # Inspire HEP author ID
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: # your LinkedIn user name
+linkedin_username: agri-faturahman-6a6752ab # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: # your ORCID ID
+orcid_id: 0000-0002-7902-8190 # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
-publons_id: # your ID on Publons
+publons_id: #GOV-4163-2022 # your ID on Publons
 quora_username: # your Quora username
-research_gate_profile: # your profile on ResearchGate
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-scopus_id: # your profile on Scopus
+research_gate_profile: #Agri-Faturahman # your profile on ResearchGate
+scholar_userid: LanJKfIAAAAJ&hl #qc6CJjYAAAAJ # your Google Scholar ID
+scopus_id: 57651921800 # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
 stackoverflow_id: # your stackoverflow id
@@ -313,8 +313,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Faturahman] #[Einstein]
+  first_name: [Agri, A.] #[Albert, A.]
 
   style: apa
   locale: en
@@ -362,6 +362,7 @@ filtered_bibtex_keywords:
     google_scholar_id,
     html,
     inspirehep_id,
+    #scopus_id,
     pdf,
     poster,
     preview,
@@ -373,8 +374,8 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3 # leave blank to always show all authors
-more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
+max_author_limit: #6 # leave blank to always show all authors
+more_authors_animation_delay: 1 #10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
 enable_publication_thumbnails: true

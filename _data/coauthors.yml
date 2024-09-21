@@ -32,3 +32,72 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"abadi":
+  - firstname: ["Prayitno", "P.", "P. A.", "Prayitno Abadi"]
+    url: https://scholar.google.co.id/citations?user=NBSWQ6wAAAAJ&hl=id&oi=ao
+
+"ahmad":
+  - firstname: ["Umar Ali", "U. A."]
+    url: https://scholar.google.co.id/citations?user=C5sDWPUAAAAJ&hl=id&oi=ao
+
+"anggarani":
+  - firstname: ["Sefria", "S.", "S. A.", "Sefria Anggarani"]
+    url: https://scholar.google.co.id/citations?user=hBdz8IUAAAAJ&hl=id&oi=ao
+
+"bahar":
+  - firstname: ["Afrizal", "A.", "A. B.", "Afrizal Bahar"]
+    url: https://scholar.google.co.id/citations?user=sj7yb1QAAAAJ&hl=id&oi=ao
+
+"husin":
+  - firstname: ["Asnawi", "A.", "A. H.", "Asnawi Husin"]
+    url: https://scholar.google.com/citations?view_op=list_works&hl=id&user=RR1eMIQAAAAJ
+
+"dear":
+  - firstname: ["Varuliantor", "V.", "V. D.", "Varuliantor Dear"]
+    url: https://scholar.google.co.id/citations?user=-aYE5zUAAAAJ&hl=id&oi=ao
+
+"harjosuwito":
+  - firstname: ["Jiyo", "J.", "J. H.", "Jiyo Harjosuwito"]
+    url: https://scholar.google.co.id/citations?user=9JEkAjEAAAAJ&hl=id&oi=ao
+
+"jamjareegulgarn":
+  - firstname: ["Punyawi", "P.", "P. J.", "Punyawi Jamjareegulgarn"]
+    url: https://scholar.google.co.id/citations?user=vr8PnZ0AAAAJ&hl=id&oi=ao
+
+"martiningrum":
+  - firstname: ["Dyah Rahayu", "D. R."]
+    url: https://scholar.google.co.id/citations?user=fdyl9u8AAAAJ&hl=id&oi=ao
+
+"muafiry":
+  - firstname: ["Ihsan Naufal", "I. N."]
+    url: https://scholar.google.co.id/citations?user=CLtrmecAAAAJ&hl=id&oi=ao
+
+"muhamad":
+  - firstname: ["Johan", "J.", "J. M.", "Johan Muhamad"]
+    url: https://scholar.google.co.id/citations?user=-fdGq2cAAAAJ&hl=id&oi=ao
+
+"pradipta":
+  - firstname: ["Rezy", "R.", "R. P.", "Rezy Pradipta"]
+    url: https://scholar.google.com/citations?user=KbF_srcAAAAJ&hl=en
+
+"saputra":
+  - firstname: ["Randy Erfa", "R. E."]
+    url: https://scholar.google.co.id/citations?user=a8lX5cEAAAAJ&hl=id
+
+"septiawan":
+  - firstname: ["Reza Rendian", "R. R."]
+    url: https://scholar.google.co.id/citations?user=-uH0klIAAAAJ&hl=id
+
+"syetiawan":
+  - firstname: ["Agung", "A.", "A. S.", "Agung Syetiawan"]
+    url: https://scholar.google.co.id/citations?user=GwxsH5IAAAAJ&hl=en
+
+"otsuka":
+  - firstname: ["Yuichi", "Y.", "Y. O.", "Yuichi Otsuka"]
+    url: https://scholar.google.co.id/citations?user=8PkE6BIAAAAJ&hl=id
+
+"yamamoto":
+  - firstname: ["Mamoru", "M.", "M. Y.", "Mamoru Yamamoto"]
+    url: https://scholar.google.co.id/citations?user=G3wipPQAAAAJ&hl=id&oi=ao
+

@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Agri Faturahman",
+    "label": "Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "agri.faturahman@brin.go.id",
+    "phone": "",
+    "url": "https://agrifatur.github.io",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
@@ -24,14 +24,41 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Research Center for Space, National Research and Innovation Agency (BRIN)",
+      "location": "Bandung, Indonesia",
+      "position": "Junior Researcher",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "2022-12-01",
+      "endDate": "now",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
+
+    },
+
+    {
+      "name": "Research Center for Space, National Research and Innovation Agency (BRIN)",
+      "location": "Bandung, Indonesia",
+      "position": "Assistant Researcher",
+      "url": "https://example.com",
+      "startDate": "2021-09-01",
+      "endDate": "2022-11-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+
+    },
+
+    {
+      "name": "Space Science Center, National Institute of Aeronautics and Space (LAPAN)",
+      "location": "Bandung, Indonesia",
+      "position": "Assistant Researcher",
+      "url": "https://example.com",
+      "startDate": "2019-02-01",
+      "endDate": "2021-08-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+
     }
+
   ],
   "volunteer": [
     {
@@ -47,13 +74,25 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Institut Teknologi Bandung (ITB)",
+      "location": "Bandung, Indonesia",
+      "url": "https://fi.itb.ac.id/s2/",
+      "area": "Physics",
+      "studyType": "M.Sc",
+      "startDate": "2018-08-01",
+      "endDate": "2020-02-01",
+      "score": "3.70",
+      "courses": ["Theory of Relativity"]
+    },
+
+    {
+      "institution": "Institut Teknologi Bandung (ITB)",
+      "location": "Bandung, Indonesia",
+      "url": "https://fi.itb.ac.id/s1/",
+      "area": "Physics",
+      "studyType": "B.Sc",
+      "startDate": "2014-08-01",
+      "endDate": "2018-07-01",
       "score": "10",
       "courses": ["Theory of Relativity"]
     }
@@ -113,11 +152,11 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Longitudinal Range of the Eastward-Traveling Equatorial Plasma Bubble Inducing Ionospheric Scintillation",
+      "publisher": "Space Weather",
+      "releaseDate": "2024-08-17",
+      "url": "https://doi.org/10.1029/2024SW003908",
+      "summary": ""
     },
     {
       "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
